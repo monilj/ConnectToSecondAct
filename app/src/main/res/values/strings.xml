@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConnectTOSecondActivity</string>
+    <string name="showNextAcitivity">Show Next Acitivity</string>
+    <string name="secActivityText">This is Secod Activity</string>
+    <string name="backButton">Go Back</string>
+    <string name="animation">Show Animation</string>
+</resources>
